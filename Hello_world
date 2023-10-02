@@ -1,2 +1,4 @@
 print("Hello")
 console.log("Hello")
+
+printf(" Hello world ");
